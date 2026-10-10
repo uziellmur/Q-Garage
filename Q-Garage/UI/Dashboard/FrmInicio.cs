@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Q_Garage.Main
 {
-    public partial class Inicio : Form
+    public partial class FrmInicio : Form
     {
-        public Inicio()
+        public FrmInicio()
         {
             InitializeComponent();
+        }
+
+        private void controlBarra1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
