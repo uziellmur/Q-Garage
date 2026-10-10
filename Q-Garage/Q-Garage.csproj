@@ -29,6 +29,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Resources\Fonts\High Speed.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="Resources\Fonts\Smack Laideth Down 2024.otf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -36,8 +39,6 @@
 
   <ItemGroup>
     <Folder Include="Data\Repository\" />
-    <Folder Include="Models\" />
-    <Folder Include="UI\Components\" />
     <Folder Include="UI\Inv_Refacc\" />
     <Folder Include="UI\Clie_Autos\" />
     <Folder Include="UI\Finanzas\" />
@@ -45,7 +46,6 @@
     <Folder Include="UI\Personal\" />
     <Folder Include="UI\Proveedores\" />
     <Folder Include="UI\Taller\" />
-    <Folder Include="Utils\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

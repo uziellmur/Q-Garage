@@ -163,8 +163,6 @@
         private Guna.UI2.WinForms.Guna2CircleButton btn_rojo;
         private Guna.UI2.WinForms.Guna2CircleButton btn_amarillo;
         private Guna.UI2.WinForms.Guna2CircleButton btn_verde;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
         private Guna.UI2.WinForms.Guna2HtmlLabel lbl_completado;
         private Guna.UI2.WinForms.Guna2HtmlLabel lbl_espera;
         private Guna.UI2.WinForms.Guna2HtmlLabel lbl_proceso;
