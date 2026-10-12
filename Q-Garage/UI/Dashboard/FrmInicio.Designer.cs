@@ -351,7 +351,7 @@
             btnsccp1.Font = new Font("Arial", 9.74F, FontStyle.Bold);
             btnsccp1.ForeColor = Color.Black;
             btnsccp1.HoverState.FillColor = Color.FromArgb(196, 153, 10);
-            btnsccp1.Location = new Point(527, 409);
+            btnsccp1.Location = new Point(511, 409);
             btnsccp1.Name = "btnsccp1";
             btnsccp1.ShadowDecoration.CustomizableEdges = customizableEdges2;
             btnsccp1.Size = new Size(180, 54);
