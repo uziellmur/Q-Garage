@@ -11,7 +11,7 @@ namespace Q_Garage.Utils
 
         public static void CargarFuente()
         {
-            // Asegúrate de poner el nombre exacto de tu archivo .ttf aquí
+       
             string rutaFuente = Path.Combine(Application.StartupPath, "Resources", "Fonts", "High Speed.ttf");
 
             if (File.Exists(rutaFuente))
@@ -22,7 +22,7 @@ namespace Q_Garage.Utils
 
         public static Font ObtenerFuente(float tamaño, FontStyle estilo = FontStyle.Regular)
         {
-            // Si la fuente cargó correctamente, la devuelve. Si no, usa Arial como respaldo.
+  
             if (coleccionFuentes.Families.Length > 0)
             {
                 return new Font(coleccionFuentes.Families[0], tamaño, estilo);
