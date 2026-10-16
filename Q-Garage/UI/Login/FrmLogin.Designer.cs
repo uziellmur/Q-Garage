@@ -45,7 +45,7 @@
             guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
             guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            botonccp1 = new Q_Garage.UI.Components.BotonCCP();
+            botonccp1 = new Q_Garage.UI.Components.btnC();
             ((System.ComponentModel.ISupportInitialize)guna2CirclePictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)guna2PictureBox1).BeginInit();
             SuspendLayout();
@@ -210,6 +210,6 @@
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
-        private UI.Components.BotonCCP botonccp1;
+        private UI.Components.btnC botonccp1;
     }
 }

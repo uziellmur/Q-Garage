@@ -5,14 +5,14 @@ using Q_Garage.Utils;
 
 namespace Q_Garage.UI.Components
 {
-    public class BotonCCP : Guna2Button
+    public class btnCS : Guna2Button
     {
-        public BotonCCP()
+        public btnCS()
         {
             // Apariencia general
             this.BorderRadius = 8;
-            this.FillColor = Color.FromArgb(255, 0, 0);
-            this.ForeColor = Color.White;
+            this.FillColor = Color.FromArgb(255, 199, 15);
+            this.ForeColor = Color.FromArgb(0, 0, 0);
             this.Size = new Size(180, 54);
 
             this.Font = FuenteHelper.ObtenerFuente(9.74f, FontStyle.Bold);
@@ -20,7 +20,7 @@ namespace Q_Garage.UI.Components
             this.Cursor = Cursors.Hand;
             this.Animated = true;
 
-            this.HoverState.FillColor = Color.FromArgb(181,0,0);
+            this.HoverState.FillColor = Color.FromArgb(196, 153, 10);
         }
     }
 }

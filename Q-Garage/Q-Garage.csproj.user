@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="UI\Components\BotonCCP.cs">
+    <Compile Update="UI\Components\btnC.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Update="UI\Components\BtnSCCP.cs">
+    <Compile Update="UI\Components\btnCS.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Update="UI\Components\ControlBarra.cs">
