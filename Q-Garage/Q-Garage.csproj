@@ -41,7 +41,6 @@
     <Folder Include="Data\Repository\" />
     <Folder Include="UI\Inv_Refacc\" />
     <Folder Include="UI\Clie_Autos\" />
-    <Folder Include="UI\Finanzas\" />
     <Folder Include="UI\Configuracion\" />
     <Folder Include="UI\Personal\" />
     <Folder Include="UI\Proveedores\" />
