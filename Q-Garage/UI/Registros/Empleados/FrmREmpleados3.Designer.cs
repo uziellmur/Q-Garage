@@ -81,7 +81,7 @@
             btncs1.ShadowDecoration.CustomizableEdges = customizableEdges2;
             btncs1.Size = new Size(181, 68);
             btncs1.TabIndex = 40;
-            btncs1.Text = "SALIR";
+            btncs1.Text = "REGRESAR";
             // 
             // btnc1
             // 
@@ -101,7 +101,7 @@
             btnc1.ShadowDecoration.CustomizableEdges = customizableEdges4;
             btnc1.Size = new Size(181, 68);
             btnc1.TabIndex = 39;
-            btnc1.Text = "CONTINUAR";
+            btnc1.Text = "GUARDAR";
             // 
             // guna2HtmlLabel6
             // 
@@ -278,7 +278,7 @@
             guna2HtmlLabel1.BackColor = Color.Transparent;
             guna2HtmlLabel1.Font = new Font("High Speed", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel1.ForeColor = Color.White;
-            guna2HtmlLabel1.Location = new Point(110, 37);
+            guna2HtmlLabel1.Location = new Point(102, 40);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             guna2HtmlLabel1.Size = new Size(268, 25);
             guna2HtmlLabel1.TabIndex = 26;
@@ -292,7 +292,7 @@
             guna2ControlBox2.FillColor = Color.Transparent;
             guna2ControlBox2.ForeColor = SystemColors.ControlText;
             guna2ControlBox2.IconColor = Color.White;
-            guna2ControlBox2.Location = new Point(374, 1);
+            guna2ControlBox2.Location = new Point(377, 3);
             guna2ControlBox2.Name = "guna2ControlBox2";
             guna2ControlBox2.ShadowDecoration.CustomizableEdges = customizableEdges16;
             guna2ControlBox2.Size = new Size(56, 36);
@@ -304,7 +304,7 @@
             guna2ControlBox1.CustomizableEdges = customizableEdges17;
             guna2ControlBox1.FillColor = Color.Transparent;
             guna2ControlBox1.IconColor = Color.Red;
-            guna2ControlBox1.Location = new Point(423, 1);
+            guna2ControlBox1.Location = new Point(425, 3);
             guna2ControlBox1.Name = "guna2ControlBox1";
             guna2ControlBox1.ShadowDecoration.CustomizableEdges = customizableEdges18;
             guna2ControlBox1.Size = new Size(56, 36);

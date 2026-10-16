@@ -85,7 +85,7 @@
             btncs1.ShadowDecoration.CustomizableEdges = customizableEdges2;
             btncs1.Size = new Size(181, 68);
             btncs1.TabIndex = 23;
-            btncs1.Text = "SALIR";
+            btncs1.Text = "REGRESAR";
             // 
             // btnc1
             // 
@@ -310,7 +310,7 @@
             guna2HtmlLabel1.BackColor = Color.Transparent;
             guna2HtmlLabel1.Font = new Font("High Speed", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             guna2HtmlLabel1.ForeColor = Color.White;
-            guna2HtmlLabel1.Location = new Point(111, 42);
+            guna2HtmlLabel1.Location = new Point(102, 40);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             guna2HtmlLabel1.Size = new Size(268, 25);
             guna2HtmlLabel1.TabIndex = 9;
@@ -324,7 +324,7 @@
             guna2ControlBox2.FillColor = Color.Transparent;
             guna2ControlBox2.ForeColor = SystemColors.ControlText;
             guna2ControlBox2.IconColor = Color.White;
-            guna2ControlBox2.Location = new Point(371, 0);
+            guna2ControlBox2.Location = new Point(377, 3);
             guna2ControlBox2.Name = "guna2ControlBox2";
             guna2ControlBox2.ShadowDecoration.CustomizableEdges = customizableEdges18;
             guna2ControlBox2.Size = new Size(56, 36);
@@ -336,7 +336,7 @@
             guna2ControlBox1.CustomizableEdges = customizableEdges19;
             guna2ControlBox1.FillColor = Color.Transparent;
             guna2ControlBox1.IconColor = Color.Red;
-            guna2ControlBox1.Location = new Point(424, 0);
+            guna2ControlBox1.Location = new Point(425, 3);
             guna2ControlBox1.Name = "guna2ControlBox1";
             guna2ControlBox1.ShadowDecoration.CustomizableEdges = customizableEdges20;
             guna2ControlBox1.Size = new Size(56, 36);
