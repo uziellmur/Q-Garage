@@ -44,7 +44,6 @@
     <Folder Include="UI\Configuracion\" />
     <Folder Include="UI\Personal\" />
     <Folder Include="UI\Proveedores\" />
-    <Folder Include="UI\Taller\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

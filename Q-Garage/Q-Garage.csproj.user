@@ -25,5 +25,8 @@
     <Compile Update="UI\Login\FrmSplash.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UI\Taller\FrmTaller.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
