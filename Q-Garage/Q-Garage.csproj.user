@@ -25,6 +25,9 @@
     <Compile Update="UI\Login\FrmSplash.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UI\Registros\Autos\FrmRAutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="UI\Registros\Clientes\FrmRClientes1.cs">
       <SubType>Form</SubType>
     </Compile>
