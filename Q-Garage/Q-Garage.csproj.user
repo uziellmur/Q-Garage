@@ -43,5 +43,14 @@
     <Compile Update="UI\Registros\Empleados\FrmREmpleados3.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UI\Registros\Proveedores\FrmRProv1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Registros\Proveedores\FrmRProv2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Registros\Proveedores\FrmRProv3.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
